@@ -16,6 +16,6 @@ Additionally, the app features an intuitive user interface and appealing graphic
 In summary, this Kotlin-based game app offers a stimulating and entertaining puzzle experience. With its unique gameplay mechanics, diverse levels, and engaging design, players will be captivated as they strategically slide pieces to move the red piece into the central lower position on the board.
 
 ## Team:
-* Faysal Badaoui Mahdad - @faysalbadaoui
-* Pere Muñoz Figuerol - @peremunoz
+[<img src="https://github.com/faysalbadaoui.png" width="50" height="50" />](https://github.com/faysalbadaoui)
+[<img src="https://github.com/peremunoz.png" width="50" height="50" />](https://github.com/peremunoz)
 
